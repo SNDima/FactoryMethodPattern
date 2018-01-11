@@ -1,0 +1,6 @@
+C:\Users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
