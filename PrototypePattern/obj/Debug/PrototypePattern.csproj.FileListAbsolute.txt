@@ -1,0 +1,6 @@
+C:\Users\dmitry.sirotkin\Documents\visual studio 2015\Projects\Patterns\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+C:\Users\dmitry.sirotkin\Documents\visual studio 2015\Projects\Patterns\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\dmitry.sirotkin\Documents\visual studio 2015\Projects\Patterns\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\dmitry.sirotkin\Documents\visual studio 2015\Projects\Patterns\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+C:\Users\dmitry.sirotkin\Documents\visual studio 2015\Projects\Patterns\PrototypePattern\obj\Debug\PrototypePattern.exe
+C:\Users\dmitry.sirotkin\Documents\visual studio 2015\Projects\Patterns\PrototypePattern\obj\Debug\PrototypePattern.pdb

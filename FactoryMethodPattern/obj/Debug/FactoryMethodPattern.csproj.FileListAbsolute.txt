@@ -3,3 +3,5 @@ c:\users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPatt
 c:\users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
 c:\users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
 c:\users\dmitry.sirotkin\documents\visual studio 2015\Projects\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
+C:\Users\dmitry.sirotkin\Documents\Visual Studio 2015\Projects\Patterns\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\Users\dmitry.sirotkin\Documents\Visual Studio 2015\Projects\Patterns\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
